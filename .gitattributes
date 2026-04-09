@@ -1,5 +1,2 @@
-*.js linguist-vendored
-node_modules/* linguist-vendored
-
+*.js linguist-documentation
 *.html linguist-detectable=true
-*.js linguist-detectable=false
